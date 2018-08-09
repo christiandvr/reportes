@@ -12,7 +12,7 @@ public class ProcesadorHTML {
 		try {
 			//DTO de prueba
 			DtoPrueba prueba = new DtoPrueba();
-			//seteo de datos al TDO
+			//seteo de datos al DTO
 			prueba.setId("1");
 			prueba.setNombre("Ejemplo");
 			//puede agregarse tablas en formato html para hacer el reporte dinámico
